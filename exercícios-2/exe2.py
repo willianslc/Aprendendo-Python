@@ -1,3 +1,9 @@
+"""""
+Agenda de Contatos: Use um dicionário onde a **chave** é o 
+nome e o **valor** é o telefone. Permita ao usuário cadastrar 3 
+pessoas e depois buscar o telefone de uma delas pelo nome.
+"""""
+
 agenda = {}
 nome = ""
 telefone = ""
