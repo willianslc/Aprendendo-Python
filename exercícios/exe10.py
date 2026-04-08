@@ -1,3 +1,9 @@
+"""""
+Lista de Compras Dinâmica: Crie um programa que permita ao usuário
+inserir itens em uma lista até que ele digite "sair". 
+No final, exiba a lista em ordem alfabética.
+"""""
+
 lista_produtos = []
 produtos = ""
 
